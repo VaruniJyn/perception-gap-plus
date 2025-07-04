@@ -70,5 +70,12 @@ It will include:
 🔧 Current build is a prototype demonstrating the core AI functionality.
 
 📷 Demo Screenshots: 
+### 🧠 Topic Input
+![Topic Input](demo_screens/input-screen.png)
 
+### 📰 News + Sentiment Output
+![News Sentiment](demo_screens/news-section.png)
+
+### 💬 Chatbot Response
+![Chatbot Reply](demo_screens/chatbot-reply.png)
 
